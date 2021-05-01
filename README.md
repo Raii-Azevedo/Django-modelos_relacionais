@@ -27,7 +27,7 @@ Django==3.1.5
 1.0.0.0
 
 ## Tutorial
-- Link: 
+- Link: https://github.com/Raii-Azevedo/Django-modelos_relacionais/blob/master/Django%20-%20Modelos%20Relacionais.pdf
  
  
 ## Authors
